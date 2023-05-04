@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+    <string name="close">Close</string>
+    <string name="exit">Exit</string>
+    <string name="gameOverMessage">Game Over! Your score is $0 points.</string>
+    <string name="newGame">New Game</string>
+    <string name="poweredBy">Powered by &lt;kastor.code/&gt;</string>
+    <string name="score">Score</string>
+</resources>
